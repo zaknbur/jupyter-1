@@ -1,7 +1,8 @@
 repo_name: zaknbur/jupyter-1
 report_id: 40afb2186d6addacb78c32cbdb2e3a95
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-23T15:36:03+00:00'
+timestamp: '2024-01-05T08:35:29+00:00'
 requested_by: parente
 provider: github
 branch: master
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/zaknbur/jupyter-1
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -25,6 +27,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/zaknbur/jupyter-1
   detection_source: Repo Metadata
 - name: PyPI
   description: A repository of software for the Python programming language
@@ -34,6 +37,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Hosted Package Repository
   image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/zaknbur/jupyter-1/blob/master/setup.py
   detection_source: setup.py
   last_updated_by: Min RK
   last_updated_on: 2015-07-23 19:41:14.000000000 Z
@@ -46,6 +50,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  detection_source_url: https://github.com/zaknbur/jupyter-1/blob/master/.travis.yml
   detection_source: ".travis.yml"
   last_updated_by: Min RK
   last_updated_on: 2015-09-22 07:19:31.000000000 Z
@@ -55,66 +60,72 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source_url: https://github.com/zaknbur/jupyter-1/blob/master/docs/source/_templates/index.html
   detection_source: docs/source/_templates/index.html
   last_updated_by: Carol Willing
   last_updated_on: 2016-04-10 06:00:11.000000000 Z
 - name: ipykernel
   description: IPython Kernel for Jupyter
-  package_url: https://pypi.org/ipykernel
+  package_url: https://pypi.org/project/ipykernel
   license: BSD-3-Clause
   open_source: true
   hosted_saas: false
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/20282/default_23dd4b159eaa2c5b085470b39bf396fcc6cf2c38.png
+  detection_source_url: https://github.com/zaknbur/jupyter-1/blob/master/setup.py
   detection_source: setup.py
   last_updated_by: Min RK
   last_updated_on: 2015-07-23 19:41:14.000000000 Z
 - name: ipywidgets
   description: IPython HTML widgets for Jupyter
-  package_url: https://pypi.org/ipywidgets
+  package_url: https://pypi.org/project/ipywidgets
   license: BSD-3-Clause
   open_source: true
   hosted_saas: false
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/zaknbur/jupyter-1/blob/master/setup.py
   detection_source: setup.py
   last_updated_by: Min RK
   last_updated_on: 2015-08-12 00:41:20.000000000 Z
 - name: nbconvert
   description: Converting Jupyter Notebooks
-  package_url: https://pypi.org/nbconvert
+  package_url: https://pypi.org/project/nbconvert
   license: BSD-3-Clause
   open_source: true
   hosted_saas: false
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/20059/default_07febc56eb57b6d4c91eb3ad11874d5d88882ab0.png
+  detection_source_url: https://github.com/zaknbur/jupyter-1/blob/master/setup.py
   detection_source: setup.py
   last_updated_by: Min RK
   last_updated_on: 2015-07-23 19:41:14.000000000 Z
 - name: notebook
   description: A web-based notebook environment for interactive computing
-  package_url: https://pypi.org/notebook
+  package_url: https://pypi.org/project/notebook
   license: BSD-3-Clause
   open_source: true
   hosted_saas: false
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/20024/default_fd02050783f95269bfcc5c4d11f1c75dd423cd1d.png
+  detection_source_url: https://github.com/zaknbur/jupyter-1/blob/master/setup.py
   detection_source: setup.py
   last_updated_by: Min RK
   last_updated_on: 2015-07-23 19:41:14.000000000 Z
 - name: qtconsole
   description: Jupyter Qt console
-  package_url: https://pypi.org/qtconsole
+  package_url: https://pypi.org/project/qtconsole
   license: BSD-3-Clause
   open_source: true
   hosted_saas: false
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/zaknbur/jupyter-1/blob/master/setup.py
   detection_source: setup.py
   last_updated_by: Min RK
   last_updated_on: 2015-07-23 19:41:14.000000000 Z
