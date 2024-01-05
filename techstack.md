@@ -1,28 +1,32 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 zaknbur/jupyter-1 is built on the following main stack:
+
 - [Python](https://www.python.org) – Languages
 - [Travis CI](http://travis-ci.com/) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 zaknbur/jupyter-1 is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png' alt='Travis CI'/> [Travis CI](http://travis-ci.com/) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [zaknbur/jupyter-1](https://github.com/zaknbur/jupyter-1)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|10<br/>Tools used|11/23/23 <br/>Report generated|
+|10<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -88,11 +92,11 @@ Full tech stack [here](/techstack.md)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[ipykernel](https://pypi.org/ipykernel)|N/A|07/23/15|Min RK |BSD-3-Clause|N/A|
-|[ipywidgets](https://pypi.org/ipywidgets)|N/A|08/12/15|Min RK |BSD-3-Clause|N/A|
-|[nbconvert](https://pypi.org/nbconvert)|N/A|07/23/15|Min RK |BSD-3-Clause|N/A|
-|[notebook](https://pypi.org/notebook)|N/A|07/23/15|Min RK |BSD-3-Clause|N/A|
-|[qtconsole](https://pypi.org/qtconsole)|N/A|07/23/15|Min RK |BSD-3-Clause|N/A|
+|[ipykernel](https://pypi.org/project/ipykernel)|N/A|07/23/15|Min RK |BSD-3-Clause|N/A|
+|[ipywidgets](https://pypi.org/project/ipywidgets)|N/A|08/12/15|Min RK |BSD-3-Clause|N/A|
+|[nbconvert](https://pypi.org/project/nbconvert)|N/A|07/23/15|Min RK |BSD-3-Clause|N/A|
+|[notebook](https://pypi.org/project/notebook)|N/A|07/23/15|Min RK |BSD-3-Clause|N/A|
+|[qtconsole](https://pypi.org/project/qtconsole)|N/A|07/23/15|Min RK |BSD-3-Clause|N/A|
 
 <br/>
 <div align='center'>
